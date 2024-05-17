@@ -9,7 +9,7 @@
 ![alt text](print/2.png)
  
 # Passo 3
->Selecione o "Windows Server 2012 R2 Standard (Servidor com GUI) X64 21/11/2014" .e depois "Avançar"
+>Selecione o "Windows Server 2012 R2 Standard (Servidor com GUI) X64 21/11/2014" e depois "Avançar".
 ![alt text](print/3.png)
  
 # Passo 4
