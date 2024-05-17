@@ -2,7 +2,7 @@
 # Passo 1
 >Selecione o teclado "Português (Brasil ABNT 2) e depois clique em "avançar".
  
-![alt text](./print/print/1.png)
+![alt text](print/1.png)
  
 # Passo 2
 >Clique em "Instalar agora".
